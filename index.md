@@ -27,8 +27,8 @@ BITARK社区是，BA基金会的重要组成部分，自从2017年成立以来�
 BITARK基金会
 
 
-PS:BITARK基金会-官网:BITARK.IO
-BITARK 基金会信息：
-CODE:304759001
-Manager：Titas Budrs, vykdantysis direktorius
-Addrss: Svitrigailos g. 11K-109, LT-03228 Vilnius
+- PS:BITARK基金会-官网:BITARK.IO
+- BITARK 基金会信息：
+- CODE:304759001
+- Manager：Titas Budrs, vykdantysis direktorius
+- Addrss: Svitrigailos g. 11K-109, LT-03228 Vilnius
