@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## BITARK社区近期公告
 
-You can use the [editor on GitHub](https://github.com/bitarkio/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+BITARK社区是，BA基金会的重要组成部分，自从2017年成立以来，一直致力于区块链基础技术的研发，以及
+区块链理念的普及。
+感谢各界人士给予我们的帮助与支持。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+经历一年多的发展，BK交易技术已经趋于完善，但市场变化，不能如期部署与发展，对此BA基金会深感抱歉。
 
-### Markdown
+目前基金会已重构，联合东南亚及欧洲部分区域市场，将于2019下半年重开市场计划。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+原基金会人原将做出新的调整,如下
 
-```markdown
-Syntax highlighted code block
+- 李戈Cathy - 不在担任，中国区市场经理一职
+- Alex - 不在担任基金会技术总监一职
+- Titas - 不在担任基金会总经理一职
 
-# Header 1
-## Header 2
-### Header 3
+其它人员变动及人员后续安排，会于确定后再次公布。
 
-- Bulleted
-- List
+最后，几点说明：
+- BA社区将全面转移至Telegram，及官网。
+- 因大中华地区法律问题，我们从未进行非法的ICO活动。
+- 对于任何支持BA基金会的参与者，我们都会建立完善的档案，如果有任何问题可以通过官网工单或EMAIL方式，提起申诉。
 
-1. Numbered
-2. List
+基金会目前合作多个项目，信心满满。 但因组织重构，资源整合调配难度等原因，进展不如预期，也在逐步加快中，希望大家静心以待，让我们一起打造更奇妙的未来：）
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+BITARK基金会
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitarkio/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+PS:BITARK基金会-官网:BITARK.IO
+BITARK 基金会信息：
+CODE:304759001
+Manager：Titas Budrs, vykdantysis direktorius
+Addrss: Svitrigailos g. 11K-109, LT-03228 Vilnius
